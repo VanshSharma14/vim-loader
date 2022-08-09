@@ -4,6 +4,7 @@ set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
+Plugin 'jiangmiao/auto-pairs'
 Plugin 'prettier/vim-prettier'
 Plugin 'git://git.wincent.com/command-t.git'
 Plugin 'file:///home/gmarik/path/to/plugin'
