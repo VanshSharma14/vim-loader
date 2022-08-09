@@ -16,7 +16,6 @@ wait
 # Run Vim commands
 vim --cmd '' \
        -c 'PlugInstall' \
-       wait
        -c 'PluginInstall' \
        -c 'qa!' # Quit vim
 # Source the VIM file
