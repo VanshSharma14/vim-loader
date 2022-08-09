@@ -25,6 +25,7 @@ Plug 'nsf/gocode', { 'tag': 'v.20150303', 'rtp': 'vim' }
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all'  }
 Plug 'junegunn/fzf', { 'do': { -> fzf#install()  }  }
 Plug 'junegunn/fzf.vim'
+Plug 'sainnhe/sonokai'
 Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production'  }
 Plug 'sbdchd/neoformat'
 Plug 'matze/vim-move'
