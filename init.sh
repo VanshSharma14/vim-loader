@@ -21,3 +21,5 @@ vim --cmd '' \
        -c 'qa!' # Quit vim
 # Source the VIM file
 source ~/.vimrc
+
+clear
