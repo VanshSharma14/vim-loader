@@ -1,7 +1,7 @@
 # vim-loader
 ### Purpose
 
-Vim-loader is created for those who are trying to transition from using an IDE to VSCode. I recently transitioned to being a vim only coder recently and the experience is immaculate. The program sets up vim for the user in a way where they can get started on vim within seconds.
+Vim-loader is created for those who are trying to transition from using an IDE like VSCode to Vim. I recently transitioned to being a vim only coder recently and the experience is immaculate. The program sets up vim for the user in a way where they can get started on vim within seconds.
 Note: A few plugins are currently not working well with the script and I'm working on fixing that issue
 
 ---
